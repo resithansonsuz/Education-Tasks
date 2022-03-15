@@ -1,1 +1,1 @@
-# HTML-Proje
+# Eğitim sırasında yaptığım projeler.
